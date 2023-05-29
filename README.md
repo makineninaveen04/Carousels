@@ -1,2 +1,0 @@
-# Carousel
- Uploading in repo
